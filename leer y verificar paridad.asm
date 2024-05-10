@@ -1,4 +1,4 @@
-; Este código es para el simulador http:;schweigi.github.io/assembler-simulator/
+; Este código es para el simulador http://schweigi.github.io/assembler-simulator/
 
 ; En esta parte salto a la etiqueta inicio, ya que no quiero que ejecute
 ; el código que está en las etiquetas impar y par
